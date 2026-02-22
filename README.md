@@ -30,7 +30,7 @@ A fully-functional chess game implementation using Python and Tkinter with compl
 1. Clone the repository or download the source code:
 ```bash
 git clone https://github.com/hasnaathussain/Beginner-Chess-.git
-cd python-chess
+cd Beginner-Chess-
 ```
 
 2. Run the game:
