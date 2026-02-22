@@ -29,7 +29,7 @@ A fully-functional chess game implementation using Python and Tkinter with compl
 
 1. Clone the repository or download the source code:
 ```bash
-git clone https://github.com/yourusername/python-chess.git
+git clone https://github.com/hasnaathussain/python-chess.git
 cd python-chess
 ```
 
