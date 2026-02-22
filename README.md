@@ -35,7 +35,7 @@ cd python-chess
 
 2. Run the game:
 ```bash
-python chess_game.py
+python Beginner-Chess-.py
 ```
 
 ## How to Play
